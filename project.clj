@@ -20,6 +20,7 @@
                  [venantius/accountant "0.1.6"
                   :exclusions [org.clojure/tools.reader]]
                  [re-frame "0.7.0-alpha-2"]
+                 [cljs-ajax "0.3.10"]
                  ]
 
   :plugins [[lein-environ "1.0.2"]
